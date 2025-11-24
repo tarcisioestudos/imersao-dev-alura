@@ -1,0 +1,182 @@
+[
+  {
+    "nome": "JavaScript",
+    "descricao": "Linguagem primária da web (front-end e back-end com Node.js), essencial para interatividade e desenvolvimento full-stack.",
+    "ano": 1995,
+    "link": "https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"
+  },
+  {
+    "nome": "Python",
+    "descricao": "Linguagem de alto nível com sintaxe clara, líder em Ciência de Dados, IA, Machine Learning e automação.",
+    "ano": 1991,
+    "link": "https://docs.python.org/3/extending/index.html"
+  },
+  {
+    "nome": "Java",
+    "descricao": "Linguagem orientada a objetos (POO) que roda na JVM, amplamente usada em desenvolvimento back-end corporativo e Android.",
+    "ano": 1995,
+    "link": "https://docs.oracle.com/en/java/"
+  },
+  {
+    "nome": "C#",
+    "descricao": "Desenvolvida pela Microsoft, é a base do .NET, essencial para desenvolvimento web (ASP.NET), jogos (Unity) e aplicativos Windows.",
+    "ano": 2000,
+    "link": "https://learn.microsoft.com/pt-br/dotnet/csharp/"
+  },
+  {
+    "nome": "C",
+    "descricao": "Linguagem de baixo nível, base para sistemas operacionais (UNIX), compiladores e softwares de sistema. Oferece controle direto sobre a memória.",
+    "ano": 1972,
+    "link": "https://en.wikipedia.org/wiki/C_(programming_language)"
+  },
+  {
+    "nome": "C++",
+    "descricao": "Extensão do C com recursos POO. Usada em jogos (motores como Unreal), sistemas de alto desempenho, software embarcado e financeiro.",
+    "ano": 1985,
+    "link": "https://cplusplus.com/doc/tutorial/"
+  },
+  {
+    "nome": "Go",
+    "descricao": "Golang, criada pelo Google, focada em performance, concorrência e escalabilidade. Ideal para microsserviços e serviços de rede.",
+    "ano": 2009,
+    "link": "https://go.dev/doc/"
+  },
+  {
+    "nome": "Ruby",
+    "descricao": "Focada em produtividade e elegância, famosa pelo framework Ruby on Rails para desenvolvimento web rápido e com convenções.",
+    "ano": 1995,
+    "link": "https://www.ruby-lang.org/pt/documentation/"
+  },
+  {
+    "nome": "Swift",
+    "descricao": "Linguagem principal da Apple para desenvolvimento de aplicativos nativos para iOS, macOS, watchOS e tvOS.",
+    "ano": 2014,
+    "link": "https://www.swift.org/documentation/"
+  },
+  {
+    "nome": "Kotlin",
+    "descricao": "Linguagem moderna e concisa que roda na JVM. É a linguagem preferencial para desenvolvimento Android nativo e popular no back-end.",
+    "ano": 2011,
+    "link": "https://kotlinlang.org/docs/reference/"
+  },
+  {
+    "nome": "PHP",
+    "descricao": "Amplamente utilizada para desenvolvimento web do lado do servidor. Base do WordPress, Joomla e frameworks como Laravel.",
+    "ano": 1995,
+    "link": "https://www.php.net/docs.php"
+  },
+  {
+    "nome": "TypeScript",
+    "descricao": "Superset tipado estaticamente do JavaScript que compila para JS puro. Melhora a manutenibilidade de grandes bases de código.",
+    "ano": 2012,
+    "link": "https://www.typescriptlang.org/docs/"
+  },
+  {
+    "nome": "SQL",
+    "descricao": "Structured Query Language. Linguagem de domínio específico usada para gerenciar e consultar dados em bancos de dados relacionais.",
+    "ano": 1974,
+    "link": "https://www.w3schools.com/sql/"
+  },
+  {
+    "nome": "Rust",
+    "descricao": "Focada em segurança e desempenho, sem coletor de lixo. Ideal para sistemas operacionais, navegadores e desenvolvimento web (WebAssembly).",
+    "ano": 2010,
+    "link": "https://doc.rust-lang.org/book/"
+  },
+  {
+    "nome": "R",
+    "descricao": "Linguagem e ambiente de código aberto voltado para computação estatística, análise de dados e gráficos.",
+    "ano": 1993,
+    "link": "https://www.r-project.org/about.html"
+  },
+  {
+    "nome": "Scala",
+    "descricao": "Linguagem que combina recursos de POO e Programação Funcional (FP), rodando na JVM. Popular em Big Data (Apache Spark).",
+    "ano": 2003,
+    "link": "https://docs.scala-lang.org/tour/introduction.html"
+  },
+  {
+    "nome": "Haskell",
+    "descricao": "Linguagem puramente funcional, conhecida por sua tipagem estática forte e avaliação preguiçosa. Usada em pesquisa e finanças.",
+    "ano": 1990,
+    "link": "https://www.haskell.org/documentation/"
+  },
+  {
+    "nome": "Erlang",
+    "descricao": "Criada pela Ericsson, focada em concorrência, tolerância a falhas e sistemas distribuídos de alta disponibilidade (telecomunicações).",
+    "ano": 1986,
+    "link": "https://www.erlang.org/doc/"
+  },
+  {
+    "nome": "Elixir",
+    "descricao": "Construída sobre a Erlang VM, combina a concorrência da Erlang com uma sintaxe mais moderna e voltada para a web (Phoenix framework).",
+    "ano": 2011,
+    "link": "https://elixir-lang.org/docs.html"
+  },
+  {
+    "nome": "Dart",
+    "descricao": "Desenvolvida pelo Google, é a linguagem para o framework Flutter, usado no desenvolvimento de aplicativos mobile, web e desktop multiplataforma.",
+    "ano": 2011,
+    "link": "https://dart.dev/guides"
+  },
+  {
+    "nome": "Perl",
+    "descricao": "Conhecida como a 'língua canivete suíço', historicamente usada para processamento de texto, relatórios e automação de sistemas.",
+    "ano": 1987,
+    "link": "https://www.perl.org/docs.html"
+  },
+  {
+    "nome": "Lua",
+    "descricao": "Linguagem de script brasileira, leve e eficiente, muito usada para estender aplicações (como em jogos, ex: World of Warcraft) e sistemas embarcados.",
+    "ano": 1993,
+    "link": "https://www.lua.org/docs.html"
+  },
+  {
+    "nome": "COBOL",
+    "descricao": "Common Business-Oriented Language. Linguagem de alto nível historicamente usada em sistemas de processamento de dados corporativos (mainframes).",
+    "ano": 1959,
+    "link": "https://en.wikipedia.org/wiki/COBOL"
+  },
+  {
+    "nome": "FORTRAN",
+    "descricao": "FORmula TRANslator. Uma das primeiras linguagens compiladas de alto nível, ainda amplamente usada em computação científica e numérica de alto desempenho.",
+    "ano": 1957,
+    "link": "https://en.wikipedia.org/wiki/Fortran"
+  },
+  {
+    "nome": "LISP",
+    "descricao": "LISt Processor. Uma das mais antigas, pioneira em programação funcional e em Inteligência Artificial. Conhecida por sua sintaxe baseada em parênteses.",
+    "ano": 1958,
+    "link": "https://en.wikipedia.org/wiki/Lisp_(programming_language)"
+  },
+  {
+    "nome": "Prolog",
+    "descricao": "PROgramming in LOGic. Linguagem de programação lógica usada em Inteligência Artificial, processamento de linguagem natural e sistemas especialistas.",
+    "ano": 1972,
+    "link": "https://www.learnprolognow.org/"
+  },
+  {
+    "nome": "Assembly",
+    "descricao": "Linguagem de baixo nível que representa instruções de código de máquina de forma mnemônica. Essencial para drivers e otimização extrema de performance.",
+    "ano": 1949,
+    "link": "https://en.wikipedia.org/wiki/Assembly_language"
+  },
+  {
+    "nome": "VHDL/Verilog",
+    "descricao": "Linguagens de Descrição de Hardware (HDL) usadas para modelar sistemas eletrônicos digitais e circuitos integrados (FPGAs, ASICs).",
+    "ano": 1983,
+    "link": "https://en.wikipedia.org/wiki/Hardware_description_language"
+  },
+  {
+    "nome": "Julia",
+    "descricao": "Linguagem de alto nível e alta performance projetada para computação técnica, combinando a facilidade do Python com a velocidade do C.",
+    "ano": 2012,
+    "link": "https://docs.julialang.org/"
+  },
+  {
+    "nome": "Smalltalk",
+    "descricao": "Uma das primeiras linguagens puramente orientadas a objetos. Contribuiu significativamente para o desenvolvimento da POO e ambientes gráficos.",
+    "ano": 1972,
+    "link": "https://en.wikipedia.org/wiki/Smalltalk"
+  }
+]

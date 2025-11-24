@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Base de conhecimento</title>
+  </head>
+  <body>
+    <header>
+      <h1>Base de conhecimento</h1>
+      <form class="container-busca" onsubmit="event.preventDefault(); iniciarBusca();"> 
+        <input type="text" id="campo-busca" placeholder="Digite uma linguagem de programação">
+        <button type="submit" id="botao-busca">Buscar</button>
+      </form>
+    </header>
+    
+    <main>
+      <section class="card-container">
+        <!-- Lista das linguagens (<article class="card"></article>) -->
+      </section>
+    </main>
+    
+    <footer class="footer">
+      <div class="footer-location">
+        Brasil
+      </div>
+      <ul class="footer-links">
+        <li>
+          <a href="#">Sobre</a>
+        </li>
+        <li>
+          <a href="#">Privacidade</a>
+        </li>
+        <li>
+          <a href="https://www.alura.com.br/">Alura</a>
+        </li>
+      </ul>
+    </footer>
+    
+    <script src="script.js"></script>
+  </body>
+</html>
